@@ -39,3 +39,11 @@ yarn-error.*
 # generated native folders
 /ios
 /android
+
+# private docs (README.md stays in git)
+AGENTS.md
+GUIDEME.md
+PLAYSTORE.md
+PRIVACY_POLICY.md
+MONETIZATION.md
+.claude/
